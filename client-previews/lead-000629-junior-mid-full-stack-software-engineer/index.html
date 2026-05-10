@@ -96,6 +96,16 @@
       border-radius: 12px;
       color: #4b321b;
     }
+    details {
+      margin-top: 12px;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: var(--accent-dark);
+    }
     @media (max-width: 800px) {
       .hero, .grid { grid-template-columns: 1fr; }
       main { width: min(100% - 20px, 1080px); padding: 20px 0; }
@@ -108,7 +118,7 @@
       <article class="card">
         <div class="eyebrow">Private client preview</div>
         <h1>Junior Mid Full Stack Software Engineer</h1>
-        <p>Overview Black Canyon Consulting (BCC) is working with our partner Knowledge3 (knowledge3.ai) to search for a Junior/Mid Full Stack Software Engineer with DevOps exposure supporting delivery of knowledge-first systems. You will build systems that turn fragmented scientific and enterprise data into structured, reusable knowledge assets that support explainable reasoning, governed analytics, and trustworthy AI. This is a hands-on engineering role focused on building and operating production-ready applications across frontend, backend, and deployment environments. You will support systems built around a question-driven approach, where APIs, data pipelines, and interfaces align to clearly defined query patterns and system behavior. This is a remote-first role with a preference for U.S.-based candidates working East Coast hours. Work is primarily asynchronous, with periodic coordination across the team. Duties &amp; Responsibilities â¢ Build and maintain web interfaces using React, Next.js, JavaScript, and TypeScript â¢ Implement, debug, and improve backend services in Python, including GraphQL APIs and supporting REST endpoints â¢ Integrate with storage and data sources including local files, SQLite, and S3-compatible systems â¢ Implement application-level security features â¢ Write and maintain automated tests and improve reliability â¢ Support application deployment and operation across environments â¢ Containerize applications using Docker and Docker Compose â¢ Configure environments, logging, TLS, and monitoring â¢ Collaborate across repositories and services Requir...</p>
+        <p>Overview Black Canyon Consulting (BCC) is working with our partner Knowledge3 (knowledge3.ai) to search for a Junior/Mid Full Stack Software Engineer with DevOps exposure supporting delivery of knowledge-first systems. You will build systems that turn fragmented scientific and enterprise data into structured, reusable knowledge assets that support explainable reasoning, governed analytics, and trustworthy AI.</p>
         <div class="meta">
           <span class="pill">Platform: remoteok</span>
           <span class="pill">Client: Black Canyon Consulting</span>
@@ -121,29 +131,51 @@
         <div class="preview-inner">
           <div class="eyebrow" style="color:#bcebdc;">Watermarked scope preview</div>
           <h2>Review first. Pay only if it fits.</h2>
-          <p style="color:#e8fff6;">This page shows the proposed approach, deliverables, and safe next step. Full-resolution files or production access are not exposed before approval/payment.</p>
+          <p style="color:#e8fff6;">This page maps the brief into a concrete first-delivery slice, review questions, and release controls. Full-resolution files or production access are not exposed before approval/payment.</p>
         </div>
       </aside>
     </section>
 
     <section class="grid">
       <article class="card">
-        <h2>Proposed Delivery</h2>
-        <ul>
-          <li>Scoped implementation plan based on the posted requirements.</li>
-          <li>Editable source files or deliverables appropriate for the service lane.</li>
-          <li>Validation checklist, setup notes, and handoff instructions.</li>
-          <li>Final version released only through an approved workflow.</li>
-        </ul>
+        <h2>Implementation Snapshot</h2>
+        <ul><li>Delivery lane: Specialist Pod</li><li>Estimated first delivery window: 16 days</li><li>Complexity band: Complex</li><li>Working model: Autopilot with manual approvals</li><li>Team shape: Lead specialist, Qa reviewer</li></ul>
+      </article>
+      <article class="card">
+        <h2>What I Would Build First</h2>
+        <ul><li>Scope the first UI slice around the highest-value screens, data flow, and user actions.</li><li>Connect the interface to the required APIs or mock services with state, error, and loading handling.</li><li>Prepare a deployable codebase with QA notes and a clean handoff path for iteration.</li><li>Priority solution signals: react, frontend, javascript, typescript, next.js.</li></ul>
+      </article>
+    </section>
+
+    <section class="card" style="margin-top:20px;">
+      <h2>Client Brief Excerpt</h2>
+      <p>Overview Black Canyon Consulting (BCC) is working with our partner Knowledge3 (knowledge3.ai) to search for a Junior/Mid Full Stack Software Engineer with DevOps exposure supporting delivery of knowledge-first systems. You will build systems that turn fragmented scientific and enterprise data into structured, reusable knowledge assets that support explainable reasoning, governed analytics, and trustworthy AI.</p>
+      <details>
+        <summary>View full captured brief</summary>
+        <p>Overview Black Canyon Consulting (BCC) is working with our partner Knowledge3 (knowledge3.ai) to search for a Junior/Mid Full Stack Software Engineer with DevOps exposure supporting delivery of knowledge-first systems. You will build systems that turn fragmented scientific and enterprise data into structured, reusable knowledge assets that support explainable reasoning, governed analytics, and trustworthy AI. This is a hands-on engineering role focused on building and operating production-ready applications across frontend, backend, and deployment environments. You will support systems built around a question-driven approach, where APIs, data pipelines, and interfaces align to clearly defined query patterns and system behavior. This is a remote-first role with a preference for U.S.-based candidates working East Coast hours. Work is primarily asynchronous, with periodic coordination across the team. Duties &amp; Responsibilities â¢ Build and maintain web interfaces using React, Next.js, JavaScript, and TypeScript â¢ Implement, debug, and improve backend services in Python, including GraphQL APIs and supporting REST endpoints â¢ Integrate with storage and data sources including local files, SQLite, and S3-compatible systems â¢ Implement application-level security features â¢ Write and maintain automated tests and improve reliability â¢ Support application deployment and operation across environments â¢ Containerize applications using Docker and Docker Compose â¢ Configure environments, logging, TLS, and monitoring â¢ Collaborate across repositories and services Requir...</p>
+      </details>
+    </section>
+
+
+    <section class="grid">
+      <article class="card">
+        <h2>Questions To Confirm Before Kickoff</h2>
+        <ul><li>Which environments, systems, or credentials will be provided at kickoff?</li></ul>
+      </article>
+      <article class="card">
+        <h2>Commercial And Delivery Controls</h2>
+        <ul><li>Suggested milestone count: 3</li><li>Suggested kickoff deposit: 40%</li><li>Invoice due window: 7 days</li><li>Revision cap before change request: 3</li><li>IP assignment should be part of the final delivery handoff.</li><li>Scope changes should be handled through explicit change control.</li><li>Final release should stay behind manual delivery review.</li></ul>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h2>Fit Signals From The Brief</h2>
+        <ul><li>Matched technical signals: react, frontend, javascript, typescript, next.js</li><li>Posting categories: consulting, software, graphql, system, security</li><li>Alternative fit: Frontend Delivery (100% match) via react, frontend, javascript, typescript, next.js</li><li>Alternative fit: DevOps and Deployment (67% match) via docker, deployment, devops</li><li>Alternative fit: Backend Automation (55% match) via python, backend, data pipeline</li></ul>
       </article>
       <article class="card">
         <h2>Compliance Guardrails</h2>
-        <ul>
-          <li>No automated platform messaging was sent by this system.</li>
-          <li>No private account access, CAPTCHA bypass, or security bypass is included.</li>
-          <li>This preview is not a contract and requires human review before contact.</li>
-          <li>Any next step should stay inside the platform's approved workflow.</li>
-        </ul>
+        <ul><li>No automated platform messaging was sent by this system.</li><li>No private account access, CAPTCHA bypass, or security bypass is included.</li><li>This preview is not a contract and requires human review before contact.</li><li>Any next step should stay inside the platform&#x27;s approved workflow.</li><li>Lead risk signal: Requires specialist review</li></ul>
       </article>
     </section>
 

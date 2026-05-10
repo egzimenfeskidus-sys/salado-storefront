@@ -96,6 +96,16 @@
       border-radius: 12px;
       color: #4b321b;
     }
+    details {
+      margin-top: 12px;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: var(--accent-dark);
+    }
     @media (max-width: 800px) {
       .hero, .grid { grid-template-columns: 1fr; }
       main { width: min(100% - 20px, 1080px); padding: 20px 0; }
@@ -108,7 +118,7 @@
       <article class="card">
         <div class="eyebrow">Private client preview</div>
         <h1>Graphic Designer &amp; Social Media Manager</h1>
-        <p>We are looking for a Graphic Designer &amp; Social Media Manager to support the development of digital marketing content across a variety of engagement channels. This is a unique opportunity to help define the brand marketing strategy of a Japan-based manufacturer of automotive refinishing products, and be part of the company’s continued growth as we expand into new markets &amp; product lines. Your role will include graphic design, content development, simple video production &amp; editing, product photography, and social media strategy. Candidate must be located in the Atlanta metro area, as the role is in-person at our headquarters near Norcross, GA. We are open to part-time, full-time, and contract/freelance candidates. Key Responsibilities: Pre-Production: Storyboarding, content conceptualization, calendar strategy &amp; planning Production: Graphic Design, Script editing, camera operation, lighting, audio, photography Post-Production: Visual &amp; audio editing, content repackaging Distribution: Create, post, and monitor content across engagement channels (Facebook, Instagram, TikTok) What We Look For: Creative, detail-oriented, and self-motivated Excellent communication and interpersonal skills Willingness to be flexible and provide support where necessary Collaborative team player Required Qualifications/Experience: Graphic Design experience (minimum of 2 years) Experience with Adobe Creative Suite Applications (Photoshop, Illustrator, InDesign) Additional Skills Preferred: Social media marketing experience (e.g. YouTube, Instagram, Facebook, Amazon) Video creation and production ex...</p>
+        <p>We are looking for a Graphic Designer &amp; Social Media Manager to support the development of digital marketing content across a variety of engagement channels. This is a unique opportunity to help define the brand marketing strategy of a Japan-based manufacturer of automotive refinishing products, and be part of the company’s continued growth as we expand into new markets &amp; product lines. Your role will include graphic design, content development, simple video production &amp; editing, product photography, and social media strategy.</p>
         <div class="meta">
           <span class="pill">Platform: behance</span>
           <span class="pill">Client: Eagle Abrasives</span>
@@ -121,29 +131,51 @@
         <div class="preview-inner">
           <div class="eyebrow" style="color:#bcebdc;">Watermarked scope preview</div>
           <h2>Review first. Pay only if it fits.</h2>
-          <p style="color:#e8fff6;">This page shows the proposed approach, deliverables, and safe next step. Full-resolution files or production access are not exposed before approval/payment.</p>
+          <p style="color:#e8fff6;">This page maps the brief into a concrete first-delivery slice, review questions, and release controls. Full-resolution files or production access are not exposed before approval/payment.</p>
         </div>
       </aside>
     </section>
 
     <section class="grid">
       <article class="card">
-        <h2>Proposed Delivery</h2>
-        <ul>
-          <li>Scoped implementation plan based on the posted requirements.</li>
-          <li>Editable source files or deliverables appropriate for the service lane.</li>
-          <li>Validation checklist, setup notes, and handoff instructions.</li>
-          <li>Final version released only through an approved workflow.</li>
-        </ul>
+        <h2>Implementation Snapshot</h2>
+        <ul><li>Delivery lane: Specialist Pod</li><li>Estimated first delivery window: 14 days</li><li>Complexity band: Complex</li><li>Working model: Autopilot with manual approvals</li><li>Team shape: Lead specialist, Qa reviewer</li></ul>
+      </article>
+      <article class="card">
+        <h2>What I Would Build First</h2>
+        <ul><li>Translate the brief into a concrete content structure, asset list, and review workflow.</li><li>Prepare the first delivery package with editable source assets, QA checkpoints, and publishing notes.</li><li>Define revision boundaries and export formats before final production work starts.</li><li>Priority solution signals: video, editing, media, production.</li></ul>
+      </article>
+    </section>
+
+    <section class="card" style="margin-top:20px;">
+      <h2>Client Brief Excerpt</h2>
+      <p>We are looking for a Graphic Designer &amp; Social Media Manager to support the development of digital marketing content across a variety of engagement channels. This is a unique opportunity to help define the brand marketing strategy of a Japan-based manufacturer of automotive refinishing products, and be part of the company’s continued growth as we expand into new markets &amp; product lines. Your role will include graphic design, content development, simple video production &amp; editing, product photography, and social media strategy.</p>
+      <details>
+        <summary>View full captured brief</summary>
+        <p>We are looking for a Graphic Designer &amp; Social Media Manager to support the development of digital marketing content across a variety of engagement channels. This is a unique opportunity to help define the brand marketing strategy of a Japan-based manufacturer of automotive refinishing products, and be part of the company’s continued growth as we expand into new markets &amp; product lines. Your role will include graphic design, content development, simple video production &amp; editing, product photography, and social media strategy. Candidate must be located in the Atlanta metro area, as the role is in-person at our headquarters near Norcross, GA. We are open to part-time, full-time, and contract/freelance candidates. Key Responsibilities: Pre-Production: Storyboarding, content conceptualization, calendar strategy &amp; planning Production: Graphic Design, Script editing, camera operation, lighting, audio, photography Post-Production: Visual &amp; audio editing, content repackaging Distribution: Create, post, and monitor content across engagement channels (Facebook, Instagram, TikTok) What We Look For: Creative, detail-oriented, and self-motivated Excellent communication and interpersonal skills Willingness to be flexible and provide support where necessary Collaborative team player Required Qualifications/Experience: Graphic Design experience (minimum of 2 years) Experience with Adobe Creative Suite Applications (Photoshop, Illustrator, InDesign) Additional Skills Preferred: Social media marketing experience (e.g. YouTube, Instagram, Facebook, Amazon) Video creation and production ex...</p>
+      </details>
+    </section>
+
+
+    <section class="grid">
+      <article class="card">
+        <h2>Questions To Confirm Before Kickoff</h2>
+        <ul><li>Which environments, systems, or credentials will be provided at kickoff?</li><li>What is the first production outcome that matters most to your team?</li></ul>
+      </article>
+      <article class="card">
+        <h2>Commercial And Delivery Controls</h2>
+        <ul><li>Suggested milestone count: 3</li><li>Suggested kickoff deposit: 40%</li><li>Invoice due window: 7 days</li><li>Revision cap before change request: 3</li><li>IP assignment should be part of the final delivery handoff.</li><li>Scope changes should be handled through explicit change control.</li></ul>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h2>Fit Signals From The Brief</h2>
+        <ul><li>Matched technical signals: video, editing, media, production</li><li>Posting categories: Social Media Design, Infographic Design, Product Photography, Infographic, Advertising Photography</li><li>Alternative fit: Media and Course Production (100% match) via video, editing, media, production</li><li>Alternative fit: Growth and Social Media Ops (75% match) via growth, marketing, social media</li><li>Alternative fit: Design and Brand Systems (50% match) via design, brand</li></ul>
       </article>
       <article class="card">
         <h2>Compliance Guardrails</h2>
-        <ul>
-          <li>No automated platform messaging was sent by this system.</li>
-          <li>No private account access, CAPTCHA bypass, or security bypass is included.</li>
-          <li>This preview is not a contract and requires human review before contact.</li>
-          <li>Any next step should stay inside the platform's approved workflow.</li>
-        </ul>
+        <ul><li>No automated platform messaging was sent by this system.</li><li>No private account access, CAPTCHA bypass, or security bypass is included.</li><li>This preview is not a contract and requires human review before contact.</li><li>Any next step should stay inside the platform&#x27;s approved workflow.</li><li>Lead risk signal: Nda review</li></ul>
       </article>
     </section>
 

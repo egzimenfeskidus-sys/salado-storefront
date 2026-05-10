@@ -96,6 +96,16 @@
       border-radius: 12px;
       color: #4b321b;
     }
+    details {
+      margin-top: 12px;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: var(--accent-dark);
+    }
     @media (max-width: 800px) {
       .hero, .grid { grid-template-columns: 1fr; }
       main { width: min(100% - 20px, 1080px); padding: 20px 0; }
@@ -108,7 +118,7 @@
       <article class="card">
         <div class="eyebrow">Private client preview</div>
         <h1>Full-stack/Backend developers LLM focused.</h1>
-        <p>Headquarters: San Francisco URL: https://clouddevs.com/ Location LATAMs (Americas) and Europe preffered. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows. Whether you are a passionate orchestration guru or experienced software developer -- we want you to help us train the world&#x27;s most advanced generative systems. About the opportunity: Outlier is looking for skilled software experts to help train generative AI models. This freelance role is fully remote and offers flexible hours—you can contribute whenever it fits your schedule. You may contribute your expertise by… Developing objective, verifiable criteria (rubrics) to evaluate system performance and ensure outputs meet strict functional requirements. Reviewing system logs and &quot;trajectories&quot; to refactor code, improve execution paths, and reach a &quot;Golden Path&quot; of perfect reliability Testing systems for vulnerabilities, including improper data exposure, unauthorized access escalations, and edge-case failures. We’re looking for people with… 2+ years of experience in backend engineering, AI automation, or complex systems integration Proven ability to build and maintain production-grade software with modular separation (e.g., distinct services for data parsing, logic processing, and reporting) Strong command of at least two major languages (e.g., Python,...</p>
+        <p>Headquarters: San Francisco URL: https://clouddevs.com/ Location LATAMs (Americas) and Europe preffered. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows.</p>
         <div class="meta">
           <span class="pill">Platform: weworkremotely</span>
           <span class="pill">Client: CloudDevs</span>
@@ -121,29 +131,51 @@
         <div class="preview-inner">
           <div class="eyebrow" style="color:#bcebdc;">Watermarked scope preview</div>
           <h2>Review first. Pay only if it fits.</h2>
-          <p style="color:#e8fff6;">This page shows the proposed approach, deliverables, and safe next step. Full-resolution files or production access are not exposed before approval/payment.</p>
+          <p style="color:#e8fff6;">This page maps the brief into a concrete first-delivery slice, review questions, and release controls. Full-resolution files or production access are not exposed before approval/payment.</p>
         </div>
       </aside>
     </section>
 
     <section class="grid">
       <article class="card">
-        <h2>Proposed Delivery</h2>
-        <ul>
-          <li>Scoped implementation plan based on the posted requirements.</li>
-          <li>Editable source files or deliverables appropriate for the service lane.</li>
-          <li>Validation checklist, setup notes, and handoff instructions.</li>
-          <li>Final version released only through an approved workflow.</li>
-        </ul>
+        <h2>Implementation Snapshot</h2>
+        <ul><li>Delivery lane: Specialist Pod</li><li>Estimated first delivery window: 14 days</li><li>Complexity band: Complex</li><li>Working model: Autopilot with manual approvals</li><li>Team shape: Lead specialist, Qa reviewer</li></ul>
+      </article>
+      <article class="card">
+        <h2>What I Would Build First</h2>
+        <ul><li>Define the core workflow service, queue/retry behavior, and API touchpoints needed for the first release.</li><li>Build the initial automation slice with logging, validation, and failure handling instead of a brittle script.</li><li>Document deployment and operational checks so the system can run safely after handoff.</li><li>Priority solution signals: python, automation, backend, integration.</li></ul>
+      </article>
+    </section>
+
+    <section class="card" style="margin-top:20px;">
+      <h2>Client Brief Excerpt</h2>
+      <p>Headquarters: San Francisco URL: https://clouddevs.com/ Location LATAMs (Americas) and Europe preffered. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows.</p>
+      <details>
+        <summary>View full captured brief</summary>
+        <p>Headquarters: San Francisco URL: https://clouddevs.com/ Location LATAMs (Americas) and Europe preffered. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows. Whether you are a passionate orchestration guru or experienced software developer -- we want you to help us train the world&#x27;s most advanced generative systems. About the opportunity: Outlier is looking for skilled software experts to help train generative AI models. This freelance role is fully remote and offers flexible hours—you can contribute whenever it fits your schedule. You may contribute your expertise by… Developing objective, verifiable criteria (rubrics) to evaluate system performance and ensure outputs meet strict functional requirements. Reviewing system logs and &quot;trajectories&quot; to refactor code, improve execution paths, and reach a &quot;Golden Path&quot; of perfect reliability Testing systems for vulnerabilities, including improper data exposure, unauthorized access escalations, and edge-case failures. We’re looking for people with… 2+ years of experience in backend engineering, AI automation, or complex systems integration Proven ability to build and maintain production-grade software with modular separation (e.g., distinct services for data parsing, logic processing, and reporting) Strong command of at least two major languages (e.g., Python,...</p>
+      </details>
+    </section>
+
+
+    <section class="grid">
+      <article class="card">
+        <h2>Questions To Confirm Before Kickoff</h2>
+        <ul><li>Which environments, systems, or credentials will be provided at kickoff?</li><li>Learning carry-forward: Reuse the winning delivery pattern for similar matched-service opportunities.</li><li>Learning carry-forward: Prioritize bespoke implementation over scaffold-only outputs for external client delivery.</li></ul>
+      </article>
+      <article class="card">
+        <h2>Commercial And Delivery Controls</h2>
+        <ul><li>Suggested milestone count: 3</li><li>Suggested kickoff deposit: 40%</li><li>Invoice due window: 7 days</li><li>Revision cap before change request: 3</li><li>IP assignment should be part of the final delivery handoff.</li><li>Scope changes should be handled through explicit change control.</li><li>Final release should stay behind manual delivery review.</li></ul>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h2>Fit Signals From The Brief</h2>
+        <ul><li>Matched technical signals: python, automation, backend, integration</li><li>Posting categories: Full-Stack Programming</li><li>Alternative fit: Backend Automation (73% match) via python, automation, backend, integration</li><li>Alternative fit: AI/ML and NLP (40% match) via ai, llm</li><li>Alternative fit: Design and Brand Systems (25% match) via design</li></ul>
       </article>
       <article class="card">
         <h2>Compliance Guardrails</h2>
-        <ul>
-          <li>No automated platform messaging was sent by this system.</li>
-          <li>No private account access, CAPTCHA bypass, or security bypass is included.</li>
-          <li>This preview is not a contract and requires human review before contact.</li>
-          <li>Any next step should stay inside the platform's approved workflow.</li>
-        </ul>
+        <ul><li>No automated platform messaging was sent by this system.</li><li>No private account access, CAPTCHA bypass, or security bypass is included.</li><li>This preview is not a contract and requires human review before contact.</li><li>Any next step should stay inside the platform&#x27;s approved workflow.</li></ul>
       </article>
     </section>
 

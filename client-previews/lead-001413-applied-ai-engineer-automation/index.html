@@ -96,6 +96,16 @@
       border-radius: 12px;
       color: #4b321b;
     }
+    details {
+      margin-top: 12px;
+      border-top: 1px solid var(--line);
+      padding-top: 12px;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: var(--accent-dark);
+    }
     @media (max-width: 800px) {
       .hero, .grid { grid-template-columns: 1fr; }
       main { width: min(100% - 20px, 1080px); padding: 20px 0; }
@@ -108,7 +118,7 @@
       <article class="card">
         <div class="eyebrow">Private client preview</div>
         <h1>Applied AI Engineer (Automation)</h1>
-        <p>Headquarters: Nepal URL: https://fusemachines.com/ Type: Remote, Full-time Role Overview As an Applied AI Engineer(Automation), you will deliver high-impact AI and automation solutions for clients—owning work from requirements discovery through prototype and production deployment. You’ll build reliable, maintainable systems that integrate LLMs into real business workflows via APIs, automation platforms, and backend services. This is a mid-to-senior individual contributor role. You’ll collaborate closely with Solutions Architects, Delivery/Engagement leads, and Product Managers to scope, build, ship, and iterate on client solutions. Key Responsibilities Design &amp; Deploy: Design, develop, and deploy tailored AI and automation solutions aligned to client objectives. Build Workflows &amp; Services: Translate business problems into production-grade AI workflows and services using Python, automation tools (n8n/Make/Zapier or similar), and LLM platforms/APIs (e.g., OpenAI, IBM watsonx.ai, Amazon Bedrock), plus retrieval systems. Agentic Systems: Build and deploy agentic workflows using LangChain, LangGraph, and Google ADK, including tool calling and structured outputs. Retrieval &amp; Knowledge Systems: Implement RAG pipelines using vector databases and search technologies (e.g., Pinecone, Elasticsearch, pgvector) and graph databases when appropriate. Prototype → Production: Ship fast prototypes, then harden them into scalable systems (testing, reliability, deployment, monitoring) independently or with a team. Client Partnership: Participate in discovery, run technical calls/demos when...</p>
+        <p>Headquarters: Nepal URL: https://fusemachines.com/ Type: Remote, Full-time Role Overview As an Applied AI Engineer(Automation), you will deliver high-impact AI and automation solutions for clients—owning work from requirements discovery through prototype and production deployment. You’ll build reliable, maintainable systems that integrate LLMs into real business workflows via APIs, automation platforms, and backend services. This is a mid-to-senior individual contributor role.</p>
         <div class="meta">
           <span class="pill">Platform: weworkremotely</span>
           <span class="pill">Client: Fusemachines</span>
@@ -121,29 +131,51 @@
         <div class="preview-inner">
           <div class="eyebrow" style="color:#bcebdc;">Watermarked scope preview</div>
           <h2>Review first. Pay only if it fits.</h2>
-          <p style="color:#e8fff6;">This page shows the proposed approach, deliverables, and safe next step. Full-resolution files or production access are not exposed before approval/payment.</p>
+          <p style="color:#e8fff6;">This page maps the brief into a concrete first-delivery slice, review questions, and release controls. Full-resolution files or production access are not exposed before approval/payment.</p>
         </div>
       </aside>
     </section>
 
     <section class="grid">
       <article class="card">
-        <h2>Proposed Delivery</h2>
-        <ul>
-          <li>Scoped implementation plan based on the posted requirements.</li>
-          <li>Editable source files or deliverables appropriate for the service lane.</li>
-          <li>Validation checklist, setup notes, and handoff instructions.</li>
-          <li>Final version released only through an approved workflow.</li>
-        </ul>
+        <h2>Implementation Snapshot</h2>
+        <ul><li>Delivery lane: Multi-Phase Delivery</li><li>Estimated first delivery window: 23 days</li><li>Complexity band: Expert</li><li>Working model: Autopilot with manual approvals</li><li>Team shape: Lead specialist, Delivery support, Qa reviewer, Program manager</li></ul>
+      </article>
+      <article class="card">
+        <h2>What I Would Build First</h2>
+        <ul><li>Map the client workflow into an LLM-ready architecture with clear inputs, outputs, and fallback rules.</li><li>Build a first production slice covering orchestration, retrieval/tool use, and evaluation checkpoints.</li><li>Package deployment, logging, and handoff notes so the prototype can move toward production safely.</li><li>Priority solution signals: AI, LLM, RAG, openai, vector.</li></ul>
+      </article>
+    </section>
+
+    <section class="card" style="margin-top:20px;">
+      <h2>Client Brief Excerpt</h2>
+      <p>Headquarters: Nepal URL: https://fusemachines.com/ Type: Remote, Full-time Role Overview As an Applied AI Engineer(Automation), you will deliver high-impact AI and automation solutions for clients—owning work from requirements discovery through prototype and production deployment. You’ll build reliable, maintainable systems that integrate LLMs into real business workflows via APIs, automation platforms, and backend services. This is a mid-to-senior individual contributor role.</p>
+      <details>
+        <summary>View full captured brief</summary>
+        <p>Headquarters: Nepal URL: https://fusemachines.com/ Type: Remote, Full-time Role Overview As an Applied AI Engineer(Automation), you will deliver high-impact AI and automation solutions for clients—owning work from requirements discovery through prototype and production deployment. You’ll build reliable, maintainable systems that integrate LLMs into real business workflows via APIs, automation platforms, and backend services. This is a mid-to-senior individual contributor role. You’ll collaborate closely with Solutions Architects, Delivery/Engagement leads, and Product Managers to scope, build, ship, and iterate on client solutions. Key Responsibilities Design &amp; Deploy: Design, develop, and deploy tailored AI and automation solutions aligned to client objectives. Build Workflows &amp; Services: Translate business problems into production-grade AI workflows and services using Python, automation tools (n8n/Make/Zapier or similar), and LLM platforms/APIs (e.g., OpenAI, IBM watsonx.ai, Amazon Bedrock), plus retrieval systems. Agentic Systems: Build and deploy agentic workflows using LangChain, LangGraph, and Google ADK, including tool calling and structured outputs. Retrieval &amp; Knowledge Systems: Implement RAG pipelines using vector databases and search technologies (e.g., Pinecone, Elasticsearch, pgvector) and graph databases when appropriate. Prototype → Production: Ship fast prototypes, then harden them into scalable systems (testing, reliability, deployment, monitoring) independently or with a team. Client Partnership: Participate in discovery, run technical calls/demos when...</p>
+      </details>
+    </section>
+
+
+    <section class="grid">
+      <article class="card">
+        <h2>Questions To Confirm Before Kickoff</h2>
+        <ul><li>Which environments, systems, or credentials will be provided at kickoff?</li><li>Learning carry-forward: Reuse the winning delivery pattern for similar matched-service opportunities.</li><li>Learning carry-forward: Prioritize bespoke implementation over scaffold-only outputs for external client delivery.</li></ul>
+      </article>
+      <article class="card">
+        <h2>Commercial And Delivery Controls</h2>
+        <ul><li>Suggested milestone count: 3</li><li>Suggested kickoff deposit: 40%</li><li>Invoice due window: 7 days</li><li>Revision cap before change request: 3</li><li>IP assignment should be part of the final delivery handoff.</li><li>Scope changes should be handled through explicit change control.</li><li>Final release should stay behind manual delivery review.</li></ul>
+      </article>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <h2>Fit Signals From The Brief</h2>
+        <ul><li>Matched technical signals: ai, llm, rag, openai, vector</li><li>Posting categories: Back-End Programming</li><li>Alternative fit: AI/ML and NLP (100% match) via ai, llm, rag, openai, vector</li><li>Alternative fit: Backend Automation (55% match) via python, automation, backend</li><li>Alternative fit: Design and Brand Systems (25% match) via design</li></ul>
       </article>
       <article class="card">
         <h2>Compliance Guardrails</h2>
-        <ul>
-          <li>No automated platform messaging was sent by this system.</li>
-          <li>No private account access, CAPTCHA bypass, or security bypass is included.</li>
-          <li>This preview is not a contract and requires human review before contact.</li>
-          <li>Any next step should stay inside the platform's approved workflow.</li>
-        </ul>
+        <ul><li>No automated platform messaging was sent by this system.</li><li>No private account access, CAPTCHA bypass, or security bypass is included.</li><li>This preview is not a contract and requires human review before contact.</li><li>Any next step should stay inside the platform&#x27;s approved workflow.</li></ul>
       </article>
     </section>
 
