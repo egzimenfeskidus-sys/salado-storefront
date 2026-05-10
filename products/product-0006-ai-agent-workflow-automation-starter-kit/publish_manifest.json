@@ -1,0 +1,300 @@
+{
+  "platform": "static_storefront",
+  "mode": "draft",
+  "status": "storefront_draft_ready",
+  "product": {
+    "product_id": 6,
+    "title": "AI Agent Workflow Automation Starter Kit",
+    "slug": "product-0006-ai-agent-workflow-automation-starter-kit",
+    "price": 99.0,
+    "currency": "USD",
+    "product_type": "python_automation",
+    "sale_status": "live_checkout",
+    "url": "products/product-0006-ai-agent-workflow-automation-starter-kit/index.html",
+    "checkout_url": "https://habtamuki4.gumroad.com/l/product-0006-ai-agent-workflow-automation-starter-kit",
+    "cover_image": "assets/gumroad_cover_1280x720.png",
+    "thumbnail_image": "assets/gumroad_thumbnail_600x600.png",
+    "preview_video": "assets/presenter_video.webm",
+    "preview_animation": "assets/launch_preview.gif",
+    "media_manifest": "products/product-0006-ai-agent-workflow-automation-starter-kit/media_manifest.json",
+    "updated_at": "2026-05-09T23:17:24.299200Z"
+  },
+  "media": {
+    "generated_at": "2026-05-09T23:17:24.282328Z",
+    "status": "media_assets_published",
+    "source_product_dir": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit",
+    "asset_count": 15,
+    "assets": [
+      {
+        "name": "cover",
+        "kind": "image",
+        "role": "cover",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_cover_1280x720.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\gumroad_cover_1280x720.png",
+        "url": "assets/gumroad_cover_1280x720.png",
+        "size_bytes": 63752,
+        "sha256": "5339c35a57a3eaf20dbdeb97b3412dbd7f30bd1187c3092a256d1a02eb68b12a"
+      },
+      {
+        "name": "thumbnail",
+        "kind": "image",
+        "role": "thumbnail",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_thumbnail_600x600.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\gumroad_thumbnail_600x600.png",
+        "url": "assets/gumroad_thumbnail_600x600.png",
+        "size_bytes": 35674,
+        "sha256": "9ffd87144529a6a62d7102f59225937a57d2c8b04dcdb4d47e852c4281994bdc"
+      },
+      {
+        "name": "thumbnail_svg",
+        "kind": "image",
+        "role": "thumbnail",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\thumbnail.svg",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\thumbnail.svg",
+        "url": "assets/thumbnail.svg",
+        "size_bytes": 764,
+        "sha256": "e2dcae8458a12339bc8206132f9fd3a1a3c8ef15b9cd32193c4e9e9ef6b284bd"
+      },
+      {
+        "name": "social_square",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\social_square_1080.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\social_square_1080.png",
+        "url": "assets/social_square_1080.png",
+        "size_bytes": 52763,
+        "sha256": "6c62a3e5c5ed8e0777ccd86e4e0d0b7a4b8307b27b63472be8e345370909a55b"
+      },
+      {
+        "name": "social_story",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\social_story_1080x1920.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\social_story_1080x1920.png",
+        "url": "assets/social_story_1080x1920.png",
+        "size_bytes": 63737,
+        "sha256": "bd05d62915ca912b56d4ac2272cf6e6d5df6198145205999b3b83950045cecbe"
+      },
+      {
+        "name": "ad_landscape",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\ad_card_1200x628.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\ad_card_1200x628.png",
+        "url": "assets/ad_card_1200x628.png",
+        "size_bytes": 62533,
+        "sha256": "8fcddf3616ef77c9fc9484af623935f74070a9d18293e06d0f6d99ed5d4de0fc"
+      },
+      {
+        "name": "presenter_portrait_png",
+        "kind": "image",
+        "role": "presenter",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\presenter_portrait.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\presenter_portrait.png",
+        "url": "assets/presenter_portrait.png",
+        "size_bytes": 455854,
+        "sha256": "cace1512e117821726e7141b0f8f3f85f746a18dd603bf13b435fb9056df2455"
+      },
+      {
+        "name": "presenter_poster_png",
+        "kind": "image",
+        "role": "poster",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\presenter_poster_1280x720.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\presenter_poster_1280x720.png",
+        "url": "assets/presenter_poster_1280x720.png",
+        "size_bytes": 273705,
+        "sha256": "cc80d7409a7911641997370eaef120497db1381f2369fd72259e536b237b7ba9"
+      },
+      {
+        "name": "presenter_video_webm",
+        "kind": "video",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\presenter_video.webm",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\presenter_video.webm",
+        "url": "assets/presenter_video.webm",
+        "size_bytes": 1314419,
+        "sha256": "3ba18091e0db34da7a97287399974299d8bdbbba26f4eeb3d3fb7b97b4bf1f10"
+      },
+      {
+        "name": "launch_preview_webm",
+        "kind": "video",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\launch_preview.webm",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\launch_preview.webm",
+        "url": "assets/launch_preview.webm",
+        "size_bytes": 270636,
+        "sha256": "46f7491e8d2b30d7cdcedb092c16aefc8f813236854fccb1bd5742c494c63d22"
+      },
+      {
+        "name": "launch_preview_mp4",
+        "kind": "video",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\launch_preview.mp4",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\launch_preview.mp4",
+        "url": "assets/launch_preview.mp4",
+        "size_bytes": 672121,
+        "sha256": "8d651961d75ca94453c400c116229a19a1ccf78aa62b892e0aecd3dfe5b8ca6d"
+      },
+      {
+        "name": "launch_preview_gif",
+        "kind": "animation",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\launch_preview.gif",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\launch_preview.gif",
+        "url": "assets/launch_preview.gif",
+        "size_bytes": 132234,
+        "sha256": "a67cd0c23c9b4a4c6d229f256261e2e4bb7212efa883d2fce757a997fbc046bc"
+      },
+      {
+        "name": "promo_copy",
+        "kind": "copy",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\promo_copy.md",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\promo_copy.md",
+        "url": "assets/promo_copy.md",
+        "size_bytes": 1567,
+        "sha256": "8b2e7160e336cd9167cf84538ab6069bff199b7abb37607c56cfbd4b24c3cf8e"
+      },
+      {
+        "name": "ad_plan",
+        "kind": "data",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\ad_plan.json",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\ad_plan.json",
+        "url": "assets/ad_plan.json",
+        "size_bytes": 1041,
+        "sha256": "9b587d8bec9afb1f6c33f4e43211835bb1f3514cafefbd626a41779241249a3a"
+      },
+      {
+        "name": "video_storyboard",
+        "kind": "data",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\video_storyboard.json",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\video_storyboard.json",
+        "url": "assets/video_storyboard.json",
+        "size_bytes": 1071,
+        "sha256": "9429f0b386889cdb3ed68a1e5cd5e0b0f3c7f6ca7e597fe539ab4932a2a8ce83"
+      }
+    ],
+    "summary": {
+      "cover": "assets/gumroad_cover_1280x720.png",
+      "thumbnail": "assets/gumroad_thumbnail_600x600.png",
+      "presenter_video": "assets/presenter_video.webm",
+      "presenter_poster": "assets/presenter_poster_1280x720.png",
+      "video_webm": "assets/launch_preview.webm",
+      "video_mp4": "assets/launch_preview.mp4",
+      "video_gif": "assets/launch_preview.gif",
+      "marketing_image_count": 3
+    },
+    "manifest_path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\media_manifest.json",
+    "cover": {
+      "name": "cover",
+      "kind": "image",
+      "role": "cover",
+      "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_cover_1280x720.png",
+      "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\gumroad_cover_1280x720.png",
+      "url": "assets/gumroad_cover_1280x720.png",
+      "size_bytes": 63752,
+      "sha256": "5339c35a57a3eaf20dbdeb97b3412dbd7f30bd1187c3092a256d1a02eb68b12a"
+    },
+    "thumbnail": {
+      "name": "thumbnail",
+      "kind": "image",
+      "role": "thumbnail",
+      "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_thumbnail_600x600.png",
+      "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\gumroad_thumbnail_600x600.png",
+      "url": "assets/gumroad_thumbnail_600x600.png",
+      "size_bytes": 35674,
+      "sha256": "9ffd87144529a6a62d7102f59225937a57d2c8b04dcdb4d47e852c4281994bdc"
+    },
+    "presenter_video": {
+      "name": "presenter_video_webm",
+      "kind": "video",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\presenter_video.webm",
+      "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\presenter_video.webm",
+      "url": "assets/presenter_video.webm",
+      "size_bytes": 1314419,
+      "sha256": "3ba18091e0db34da7a97287399974299d8bdbbba26f4eeb3d3fb7b97b4bf1f10"
+    },
+    "presenter_poster": {
+      "name": "presenter_poster_png",
+      "kind": "image",
+      "role": "poster",
+      "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\presenter_poster_1280x720.png",
+      "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\presenter_poster_1280x720.png",
+      "url": "assets/presenter_poster_1280x720.png",
+      "size_bytes": 273705,
+      "sha256": "cc80d7409a7911641997370eaef120497db1381f2369fd72259e536b237b7ba9"
+    },
+    "video_webm": {
+      "name": "launch_preview_webm",
+      "kind": "video",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\launch_preview.webm",
+      "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\launch_preview.webm",
+      "url": "assets/launch_preview.webm",
+      "size_bytes": 270636,
+      "sha256": "46f7491e8d2b30d7cdcedb092c16aefc8f813236854fccb1bd5742c494c63d22"
+    },
+    "video_mp4": {
+      "name": "launch_preview_mp4",
+      "kind": "video",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\launch_preview.mp4",
+      "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\launch_preview.mp4",
+      "url": "assets/launch_preview.mp4",
+      "size_bytes": 672121,
+      "sha256": "8d651961d75ca94453c400c116229a19a1ccf78aa62b892e0aecd3dfe5b8ca6d"
+    },
+    "video_gif": {
+      "name": "launch_preview_gif",
+      "kind": "animation",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\launch_preview.gif",
+      "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\launch_preview.gif",
+      "url": "assets/launch_preview.gif",
+      "size_bytes": 132234,
+      "sha256": "a67cd0c23c9b4a4c6d229f256261e2e4bb7212efa883d2fce757a997fbc046bc"
+    },
+    "marketing_images": [
+      {
+        "name": "social_square",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\social_square_1080.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\social_square_1080.png",
+        "url": "assets/social_square_1080.png",
+        "size_bytes": 52763,
+        "sha256": "6c62a3e5c5ed8e0777ccd86e4e0d0b7a4b8307b27b63472be8e345370909a55b"
+      },
+      {
+        "name": "social_story",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\social_story_1080x1920.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\social_story_1080x1920.png",
+        "url": "assets/social_story_1080x1920.png",
+        "size_bytes": 63737,
+        "sha256": "bd05d62915ca912b56d4ac2272cf6e6d5df6198145205999b3b83950045cecbe"
+      },
+      {
+        "name": "ad_landscape",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\marketing\\ad_card_1200x628.png",
+        "path": "sellable_products\\storefront\\products\\product-0006-ai-agent-workflow-automation-starter-kit\\assets\\ad_card_1200x628.png",
+        "url": "assets/ad_card_1200x628.png",
+        "size_bytes": 62533,
+        "sha256": "8fcddf3616ef77c9fc9484af623935f74070a9d18293e06d0f6d99ed5d4de0fc"
+      }
+    ]
+  },
+  "package": {
+    "path": "sellable_products\\packages\\product-0006-ai-agent-workflow-automation-starter-kit.zip",
+    "checksum_sha256": "87a52a07062933c57694dc705280544a03675527d7aab5b5de4cf5d9d6a3187f",
+    "download_copied": false
+  },
+  "legal_note": "Static storefront files were generated locally. No third-party marketplace API was called. Do not expose paid ZIP downloads publicly unless you have a checkout/fulfillment gate.",
+  "generated_at": "2026-05-09T23:17:24.315597Z"
+}

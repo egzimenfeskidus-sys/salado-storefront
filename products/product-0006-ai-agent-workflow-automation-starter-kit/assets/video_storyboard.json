@@ -1,0 +1,28 @@
+{
+  "product_id": 6,
+  "title": "AI Agent Workflow Automation Starter Kit",
+  "duration_seconds": 12,
+  "scenes": [
+    {
+      "eyebrow": "NEW DIGITAL PRODUCT",
+      "headline": "AI Agent Workflow Automation Starter Kit",
+      "body": "Scoped starter kit for agent task queues, prompt templates, local validation, and audit logs without requiring hidden platform automation or unapproved..."
+    },
+    {
+      "eyebrow": "WHAT YOU GET",
+      "headline": "Editable files, docs, tests, and manifest",
+      "body": "A practical starting point that buyers can inspect, customize, and reuse."
+    },
+    {
+      "eyebrow": "BUILT SAFELY",
+      "headline": "API-neutral, no hidden credentials",
+      "body": "Use approved APIs and your own verified accounts when connecting external services."
+    },
+    {
+      "eyebrow": "INSTANT DOWNLOAD",
+      "headline": "$99 commercial-ready starter kit",
+      "body": "Buy once, adapt it, and ship repeatable client-ready assets faster."
+    }
+  ],
+  "generated_at": "2026-05-09T23:12:21.909579Z"
+}

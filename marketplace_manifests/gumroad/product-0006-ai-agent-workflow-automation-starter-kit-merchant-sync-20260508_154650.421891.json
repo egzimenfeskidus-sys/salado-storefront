@@ -1,0 +1,19 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "action": "sync_existing_product_package",
+  "status": "gumroad_package_synced",
+  "product_id": 6,
+  "gumroad_product_id": "RasnhfHsSIgPjKX6olIgeQ==",
+  "title": "AI Agent Workflow Automation Starter Kit",
+  "package_path": "sellable_products\\packages\\product-0006-ai-agent-workflow-automation-starter-kit.zip",
+  "package_checksum_sha256": "0e466ed29fd01589ba1e5d7ea82e607d439771452342d4ff697af482afb4e673",
+  "response": {
+    "http_status": 200,
+    "success": true,
+    "error": "",
+    "uploaded_file_url": "https://s3.amazonaws.com/gumroad/attachments/5810432401871/a7c5fc0f8fca46948442ad48d5fda975/original/product-0006-ai-agent-workflow-automation-starter-kit.zip"
+  },
+  "legal_note": "Existing Gumroad package was updated only after --confirm-live and GUMROAD_LIVE_UPLOAD_ENABLED=true.",
+  "generated_at": "2026-05-08T15:46:50.421891Z"
+}

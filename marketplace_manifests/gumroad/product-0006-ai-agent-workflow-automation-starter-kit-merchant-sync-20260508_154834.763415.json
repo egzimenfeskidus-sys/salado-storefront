@@ -1,0 +1,27 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "action": "sync_existing_product_package",
+  "status": "gumroad_package_synced",
+  "product_id": 6,
+  "gumroad_product_id": "RasnhfHsSIgPjKX6olIgeQ==",
+  "title": "AI Agent Workflow Automation Starter Kit",
+  "package_path": "sellable_products\\packages\\product-0006-ai-agent-workflow-automation-starter-kit.zip",
+  "package_checksum_sha256": "c251782b79718fc3ee3598695866db2b40178b66818479cac4320cc8550b6b3b",
+  "response": {
+    "http_status": 200,
+    "success": true,
+    "error": "",
+    "uploaded_file_url": "https://s3.amazonaws.com/gumroad/attachments/5810432401871/67340a499437dc1d9f600ed14c743e23/original/product-0006-ai-agent-workflow-automation-starter-kit.zip"
+  },
+  "media_sync": {
+    "status": "blocked_by_gumroad_public_api",
+    "cover_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_cover_1280x720.png",
+    "thumbnail_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_thumbnail_600x600.png",
+    "reason": "Gumroad's public thumbnail endpoint accepts signed_blob_id only. The documented /v2/files/presign + /v2/files/complete flow returns file_url for sellable files, not the Rails ActiveStorage signed blob required for cover/thumbnail attachment.",
+    "safe_fallback": "The generated cover and thumbnail are included inside the synced product ZIP. Attach them in Gumroad UI unless Gumroad exposes an official OAuth endpoint that returns signed_blob_id.",
+    "source_observation": "Gumroad open-source UI uses DirectUpload(file, '/rails/active_storage/direct_uploads') and then calls thumbnail creation with blob.signed_id."
+  },
+  "legal_note": "Existing Gumroad package was updated only after --confirm-live and GUMROAD_LIVE_UPLOAD_ENABLED=true.",
+  "generated_at": "2026-05-08T15:48:34.763415Z"
+}

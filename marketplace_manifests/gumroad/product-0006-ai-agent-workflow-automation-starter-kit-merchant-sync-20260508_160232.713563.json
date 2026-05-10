@@ -1,0 +1,46 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "action": "sync_existing_product_package",
+  "status": "gumroad_package_synced",
+  "product_id": 6,
+  "gumroad_product_id": "RasnhfHsSIgPjKX6olIgeQ==",
+  "title": "AI Agent Workflow Automation Starter Kit",
+  "package_path": "sellable_products\\packages\\product-0006-ai-agent-workflow-automation-starter-kit.zip",
+  "package_checksum_sha256": "294a5b42f8a7d95437fed7096734460f9886ae1b91e41b211d3cd7dd9b4e800d",
+  "response": {
+    "http_status": 200,
+    "success": true,
+    "error": "",
+    "uploaded_file_url": "https://s3.amazonaws.com/gumroad/attachments/5810432401871/e6291280652502a1a5659e15b8c3048d/original/product-0006-ai-agent-workflow-automation-starter-kit.zip"
+  },
+  "media_sync": {
+    "platform": "gumroad",
+    "mode": "live",
+    "action": "sync_product_media",
+    "status": "gumroad_media_sync_incomplete",
+    "product_id": 6,
+    "gumroad_product_id": "RasnhfHsSIgPjKX6olIgeQ==",
+    "thumbnail": {
+      "success": false,
+      "status": "signed_blob_unavailable",
+      "path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_thumbnail_600x600.png",
+      "details": {
+        "success": false,
+        "status": "active_storage_direct_upload_rejected",
+        "http_status": 422,
+        "error": "Unprocessable Content",
+        "reason": "Gumroad Rails ActiveStorage direct upload appears to require seller UI session/CSRF context; the public OAuth token was not enough."
+      }
+    },
+    "cover": {
+      "status": "blocked_by_gumroad_public_api",
+      "path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_cover_1280x720.png",
+      "reason": "Gumroad cover assets are saved through the seller UI asset_preview route, which uses Rails ActiveStorage session uploads. The public v2 API exposes cover_ids ordering, not a cover creation endpoint."
+    },
+    "generated_at": "2026-05-08T16:02:33.838748Z",
+    "manifest_path": "sellable_products\\storefront\\marketplace_manifests\\gumroad\\product-0006-ai-agent-workflow-automation-starter-kit-media-sync-20260508_160233.838748.json"
+  },
+  "legal_note": "Existing Gumroad package was updated only after --confirm-live and GUMROAD_LIVE_UPLOAD_ENABLED=true.",
+  "generated_at": "2026-05-08T16:02:32.713563Z"
+}

@@ -1,0 +1,48 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "action": "conversion_metadata_update",
+  "status": "gumroad_product_metadata_updated",
+  "product_id": 5,
+  "gumroad_product_id": "WVbPqjDTVQojII3w3wZ4Sw==",
+  "title": "Short-Form Video Script and Production Pack",
+  "storefront_url": "https://habtamuki4.gumroad.com/l/product-0005-short-form-video-script-and-production-pack",
+  "updates": {
+    "custom_summary": "50+ video script templates, storyboard prompts, and production checklist for TikTok, Reels, and Shorts. Instant download.",
+    "tags": [
+      "automation",
+      "content pack",
+      "digital product",
+      "template",
+      "short-form video"
+    ],
+    "description_sections_added": [
+      "Product Details",
+      "Refund Policy"
+    ],
+    "quantity_enabled_requested": true,
+    "sales_count_visibility_requested": true,
+    "product_reviews_visibility_requested": true
+  },
+  "api_result": {
+    "http_status": 200,
+    "success": true,
+    "published": true,
+    "thumbnail_url": null
+  },
+  "media_upload_result": {
+    "thumbnail_direct_upload_supported": false,
+    "message": "'thumbnail' is not an accepted parameter on PUT /v2/products/:id. Use POST /v2/products/:id/thumbnail with a signed_blob_id to set the thumbnail.",
+    "prepared_cover_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\gumroad_cover_1280x720.png",
+    "prepared_thumbnail_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\gumroad_thumbnail_600x600.png"
+  },
+  "public_page_check": {
+    "http_status": 200,
+    "contains_product_name": true,
+    "contains_summary": true,
+    "contains_refund_policy": true,
+    "contains_product_details": true
+  },
+  "legal_note": "Only official Gumroad API endpoints were used. Token values were not logged. Thumbnail upload was not forced because Gumroad requires a signed blob workflow.",
+  "generated_at": "2026-05-08T14:29:17Z"
+}

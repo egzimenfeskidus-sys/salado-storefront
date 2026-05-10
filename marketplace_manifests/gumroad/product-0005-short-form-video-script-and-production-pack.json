@@ -1,0 +1,20 @@
+{
+  "platform": "gumroad",
+  "mode": "draft",
+  "status": "gumroad_upload_manifest_ready",
+  "product_id": 5,
+  "title": "Short-Form Video Script and Production Pack",
+  "price": 35.0,
+  "currency": "USD",
+  "listing_path": "sellable_products\\marketplace\\gumroad\\product-0005-short-form-video-script-and-production-pack.md",
+  "package_path": "sellable_products\\packages\\product-0005-short-form-video-script-and-production-pack.zip",
+  "package_checksum_sha256": "cfcc9b022f86aa217a8178a2457ecfbcbcf78968daa95ae4a09f41e650111583",
+  "required_manual_checks": [
+    "Confirm seller account is approved.",
+    "Confirm marketplace terms allow this product category.",
+    "Confirm tax, refund, and support policies are configured.",
+    "Confirm live upload command has explicit operator approval."
+  ],
+  "legal_note": "No third-party API call was made. This manifest is for controlled manual or reviewed API upload.",
+  "generated_at": "2026-05-08T06:54:17.914358Z"
+}

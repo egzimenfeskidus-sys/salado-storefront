@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-05-08T20:34:26.112810Z",
+  "status": "media_assets_published",
+  "source_product_dir": "sellable_products\\product_0001_google-sheet-whatsapp-reminder-bot-starter-kit",
+  "asset_count": 1,
+  "assets": [
+    {
+      "name": "thumbnail_svg",
+      "kind": "image",
+      "role": "thumbnail",
+      "source_path": "sellable_products\\product_0001_google-sheet-whatsapp-reminder-bot-starter-kit\\thumbnail.svg",
+      "path": "sellable_products\\storefront\\products\\product-0001-google-sheet-whatsapp-reminder-bot-starter-kit\\assets\\thumbnail.svg",
+      "url": "assets/thumbnail.svg",
+      "size_bytes": 766,
+      "sha256": "1c228bb19a961cfb851bd68038d9034894b4448beef316a0fd8107791a3816fc"
+    }
+  ],
+  "summary": {
+    "cover": "",
+    "thumbnail": "assets/thumbnail.svg",
+    "video_mp4": "",
+    "video_gif": "",
+    "marketing_image_count": 0
+  }
+}

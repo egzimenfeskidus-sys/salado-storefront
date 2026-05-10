@@ -1,0 +1,38 @@
+{
+  "product_id": 7,
+  "title": "AI Task Queue Manager Starter Kit",
+  "price": 49.0,
+  "audiences": [
+    "automation builders",
+    "freelancers",
+    "ops teams",
+    "AI workflow prototypers"
+  ],
+  "angles": [
+    {
+      "angle": "speed",
+      "hook": "Stop starting from a blank page."
+    },
+    {
+      "angle": "trust",
+      "hook": "Editable files, clear docs, and scoped claims."
+    },
+    {
+      "angle": "commercial reuse",
+      "hook": "Use it for your own projects or client delivery."
+    }
+  ],
+  "creative_files": {
+    "landscape": "ad_card_1200x628.png",
+    "square": "social_square_1080.png",
+    "story": "social_story_1080x1920.png",
+    "preview_gif": "launch_preview.gif",
+    "preview_mp4": "launch_preview.mp4"
+  },
+  "policy": {
+    "auto_paid_ads": false,
+    "requires_confirmation": true,
+    "notes": "Generate creatives automatically; paid distribution must use official ad APIs and explicit approval."
+  },
+  "generated_at": "2026-05-10T00:05:07.799646Z"
+}

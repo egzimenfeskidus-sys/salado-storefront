@@ -1,0 +1,19 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "action": "sync_existing_product_package",
+  "status": "gumroad_package_synced",
+  "product_id": 5,
+  "gumroad_product_id": "WVbPqjDTVQojII3w3wZ4Sw==",
+  "title": "Short-Form Video Script and Production Pack",
+  "package_path": "sellable_products\\packages\\product-0005-short-form-video-script-and-production-pack.zip",
+  "package_checksum_sha256": "9d4f3ddf19a2fca43a0f44e3f5a01521ce98dc96aa0c4656fa7900b8e920ee89",
+  "response": {
+    "http_status": 200,
+    "success": true,
+    "error": "",
+    "uploaded_file_url": "https://s3.amazonaws.com/gumroad/attachments/5810432401871/9999863b3eebbf32fa95bb78a7f0e2a1/original/product-0005-short-form-video-script-and-production-pack.zip"
+  },
+  "legal_note": "Existing Gumroad package was updated only after --confirm-live and GUMROAD_LIVE_UPLOAD_ENABLED=true.",
+  "generated_at": "2026-05-08T15:23:09.286926Z"
+}

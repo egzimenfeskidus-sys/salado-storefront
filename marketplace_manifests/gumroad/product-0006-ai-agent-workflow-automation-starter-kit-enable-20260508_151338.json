@@ -1,0 +1,48 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "action": "enable_and_conversion_metadata_update",
+  "status": "gumroad_product_enabled",
+  "product_id": 6,
+  "gumroad_product_id": "RasnhfHsSIgPjKX6olIgeQ==",
+  "title": "AI Agent Workflow Automation Starter Kit",
+  "storefront_url": "https://habtamuki4.gumroad.com/l/product-0006-ai-agent-workflow-automation-starter-kit",
+  "before": {
+    "http_status": 200,
+    "success": true,
+    "published": false
+  },
+  "enable_response": {
+    "http_status": 200,
+    "success": true,
+    "message": ""
+  },
+  "after": {
+    "http_status": 200,
+    "success": true,
+    "published": true,
+    "custom_summary": "Python starter kit for safe AI agent workflows: task queues, prompt templates, validation checks, audit logs, and local tests. Instant download.",
+    "tags": [
+      "automation",
+      "ai agent",
+      "python automation",
+      "workflow",
+      "digital product"
+    ],
+    "thumbnail_url": null
+  },
+  "prepared_media": {
+    "cover_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_cover_1280x720.png",
+    "thumbnail_path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_thumbnail_600x600.png",
+    "note": "Gumroad thumbnail upload requires a signed_blob_id workflow, so media files are prepared for manual UI upload."
+  },
+  "public_page_check": {
+    "http_status": 200,
+    "contains_product_name": true,
+    "contains_summary": true,
+    "contains_refund_policy": true,
+    "contains_product_details": true
+  },
+  "legal_note": "Gumroad product was uploaded and enabled through official API endpoints after explicit live confirmation and operator enable flag.",
+  "generated_at": "2026-05-08T15:13:38Z"
+}

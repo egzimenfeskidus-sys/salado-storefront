@@ -1,0 +1,227 @@
+{
+  "platform": "static_storefront",
+  "mode": "draft",
+  "status": "storefront_draft_ready",
+  "product": {
+    "product_id": 5,
+    "title": "Short-Form Video Script and Production Pack",
+    "slug": "product-0005-short-form-video-script-and-production-pack",
+    "price": 35.0,
+    "currency": "USD",
+    "product_type": "content_pack",
+    "sale_status": "live_checkout",
+    "url": "products/product-0005-short-form-video-script-and-production-pack/index.html",
+    "checkout_url": "https://habtamuki4.gumroad.com/l/product-0005-short-form-video-script-and-production-pack",
+    "cover_image": "assets/gumroad_cover_1280x720.png",
+    "thumbnail_image": "assets/gumroad_thumbnail_600x600.png",
+    "preview_video": "assets/launch_preview.mp4",
+    "preview_animation": "assets/launch_preview.gif",
+    "media_manifest": "products/product-0005-short-form-video-script-and-production-pack/media_manifest.json",
+    "updated_at": "2026-05-09T04:39:22.637995Z"
+  },
+  "media": {
+    "generated_at": "2026-05-09T04:39:22.637995Z",
+    "status": "media_assets_published",
+    "source_product_dir": "sellable_products\\product_0005_short-form-video-script-and-production-pack",
+    "asset_count": 11,
+    "assets": [
+      {
+        "name": "cover",
+        "kind": "image",
+        "role": "cover",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\gumroad_cover_1280x720.png",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\gumroad_cover_1280x720.png",
+        "url": "assets/gumroad_cover_1280x720.png",
+        "size_bytes": 55842,
+        "sha256": "91ad0826856d860a4171fc229ef1d5e2448309c664c43654f989451638c1a2e6"
+      },
+      {
+        "name": "thumbnail",
+        "kind": "image",
+        "role": "thumbnail",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\gumroad_thumbnail_600x600.png",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\gumroad_thumbnail_600x600.png",
+        "url": "assets/gumroad_thumbnail_600x600.png",
+        "size_bytes": 31571,
+        "sha256": "836caba3058ebfdda52f379291fc9152ada0bb9ed61f4e356ca586d050b509ad"
+      },
+      {
+        "name": "thumbnail_svg",
+        "kind": "image",
+        "role": "thumbnail",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\thumbnail.svg",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\thumbnail.svg",
+        "url": "assets/thumbnail.svg",
+        "size_bytes": 774,
+        "sha256": "e106d4892d0e021d097398b9bbba6015184504d933787a562ae150e5f6031b3a"
+      },
+      {
+        "name": "social_square",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\social_square_1080.png",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\social_square_1080.png",
+        "url": "assets/social_square_1080.png",
+        "size_bytes": 49081,
+        "sha256": "e9bda3af707250c72827f330da4391dec39b73641d21a7454d485d8b054f2f2d"
+      },
+      {
+        "name": "social_story",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\social_story_1080x1920.png",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\social_story_1080x1920.png",
+        "url": "assets/social_story_1080x1920.png",
+        "size_bytes": 58504,
+        "sha256": "878826ec61a4e60425ce2ac5d4f51e8c0e8ab651f691c695915ff4e3779edfcb"
+      },
+      {
+        "name": "ad_landscape",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\ad_card_1200x628.png",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\ad_card_1200x628.png",
+        "url": "assets/ad_card_1200x628.png",
+        "size_bytes": 53087,
+        "sha256": "2673682eba3a758a8053819750beaba534c0b5c2057e0b35d24fa4e82ae2ff8e"
+      },
+      {
+        "name": "launch_preview_mp4",
+        "kind": "video",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\launch_preview.mp4",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\launch_preview.mp4",
+        "url": "assets/launch_preview.mp4",
+        "size_bytes": 674391,
+        "sha256": "aed1e6c7d2c633afe8d5467987b0064bfb34de9cfac1c365cfc627a24d8f38c3"
+      },
+      {
+        "name": "launch_preview_gif",
+        "kind": "animation",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\launch_preview.gif",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\launch_preview.gif",
+        "url": "assets/launch_preview.gif",
+        "size_bytes": 125395,
+        "sha256": "ea51b103fe3b89c9bfb4419135f8f6ae49361201466baf376dad18034f6a55f8"
+      },
+      {
+        "name": "promo_copy",
+        "kind": "copy",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\promo_copy.md",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\promo_copy.md",
+        "url": "assets/promo_copy.md",
+        "size_bytes": 1472,
+        "sha256": "3055414dec0dbac5249c9199d690fee87fef2fc7c2ba097d633014abe3e2a846"
+      },
+      {
+        "name": "ad_plan",
+        "kind": "data",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\ad_plan.json",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\ad_plan.json",
+        "url": "assets/ad_plan.json",
+        "size_bytes": 1051,
+        "sha256": "832845a00b2b5952260f97264d392ca48d2f8418abcad1fb87bdf36a1b67a7d5"
+      },
+      {
+        "name": "video_storyboard",
+        "kind": "data",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\video_storyboard.json",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\video_storyboard.json",
+        "url": "assets/video_storyboard.json",
+        "size_bytes": 1036,
+        "sha256": "5e9f8ed204ca9701102c7da6296ef40f512f0cdbbbcc6413bcb5cb27c68d4b39"
+      }
+    ],
+    "summary": {
+      "cover": "assets/gumroad_cover_1280x720.png",
+      "thumbnail": "assets/gumroad_thumbnail_600x600.png",
+      "video_mp4": "assets/launch_preview.mp4",
+      "video_gif": "assets/launch_preview.gif",
+      "marketing_image_count": 3
+    },
+    "manifest_path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\media_manifest.json",
+    "cover": {
+      "name": "cover",
+      "kind": "image",
+      "role": "cover",
+      "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\gumroad_cover_1280x720.png",
+      "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\gumroad_cover_1280x720.png",
+      "url": "assets/gumroad_cover_1280x720.png",
+      "size_bytes": 55842,
+      "sha256": "91ad0826856d860a4171fc229ef1d5e2448309c664c43654f989451638c1a2e6"
+    },
+    "thumbnail": {
+      "name": "thumbnail",
+      "kind": "image",
+      "role": "thumbnail",
+      "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\gumroad_thumbnail_600x600.png",
+      "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\gumroad_thumbnail_600x600.png",
+      "url": "assets/gumroad_thumbnail_600x600.png",
+      "size_bytes": 31571,
+      "sha256": "836caba3058ebfdda52f379291fc9152ada0bb9ed61f4e356ca586d050b509ad"
+    },
+    "video_mp4": {
+      "name": "launch_preview_mp4",
+      "kind": "video",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\launch_preview.mp4",
+      "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\launch_preview.mp4",
+      "url": "assets/launch_preview.mp4",
+      "size_bytes": 674391,
+      "sha256": "aed1e6c7d2c633afe8d5467987b0064bfb34de9cfac1c365cfc627a24d8f38c3"
+    },
+    "video_gif": {
+      "name": "launch_preview_gif",
+      "kind": "animation",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\launch_preview.gif",
+      "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\launch_preview.gif",
+      "url": "assets/launch_preview.gif",
+      "size_bytes": 125395,
+      "sha256": "ea51b103fe3b89c9bfb4419135f8f6ae49361201466baf376dad18034f6a55f8"
+    },
+    "marketing_images": [
+      {
+        "name": "social_square",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\social_square_1080.png",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\social_square_1080.png",
+        "url": "assets/social_square_1080.png",
+        "size_bytes": 49081,
+        "sha256": "e9bda3af707250c72827f330da4391dec39b73641d21a7454d485d8b054f2f2d"
+      },
+      {
+        "name": "social_story",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\social_story_1080x1920.png",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\social_story_1080x1920.png",
+        "url": "assets/social_story_1080x1920.png",
+        "size_bytes": 58504,
+        "sha256": "878826ec61a4e60425ce2ac5d4f51e8c0e8ab651f691c695915ff4e3779edfcb"
+      },
+      {
+        "name": "ad_landscape",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0005_short-form-video-script-and-production-pack\\marketing\\ad_card_1200x628.png",
+        "path": "sellable_products\\storefront\\products\\product-0005-short-form-video-script-and-production-pack\\assets\\ad_card_1200x628.png",
+        "url": "assets/ad_card_1200x628.png",
+        "size_bytes": 53087,
+        "sha256": "2673682eba3a758a8053819750beaba534c0b5c2057e0b35d24fa4e82ae2ff8e"
+      }
+    ]
+  },
+  "package": {
+    "path": "sellable_products\\packages\\product-0005-short-form-video-script-and-production-pack.zip",
+    "checksum_sha256": "b6ab040088d34c757a29d4465bb2720471585e8655aea271e2e41c28af7226a0",
+    "download_copied": false
+  },
+  "legal_note": "Static storefront files were generated locally. No third-party marketplace API was called. Do not expose paid ZIP downloads publicly unless you have a checkout/fulfillment gate.",
+  "generated_at": "2026-05-09T04:39:22.637995Z"
+}

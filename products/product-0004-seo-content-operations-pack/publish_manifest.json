@@ -1,0 +1,69 @@
+{
+  "platform": "static_storefront",
+  "mode": "draft",
+  "status": "storefront_draft_ready",
+  "product": {
+    "product_id": 4,
+    "title": "SEO Content Operations Pack",
+    "slug": "product-0004-seo-content-operations-pack",
+    "price": 39.0,
+    "currency": "USD",
+    "product_type": "content_pack",
+    "sale_status": "preview_only",
+    "url": "products/product-0004-seo-content-operations-pack/index.html",
+    "checkout_url": "",
+    "cover_image": "",
+    "thumbnail_image": "assets/thumbnail.svg",
+    "preview_video": "",
+    "preview_animation": "",
+    "media_manifest": "products/product-0004-seo-content-operations-pack/media_manifest.json",
+    "updated_at": "2026-05-08T20:34:29.670416Z"
+  },
+  "media": {
+    "generated_at": "2026-05-08T20:34:29.652461Z",
+    "status": "media_assets_published",
+    "source_product_dir": "sellable_products\\product_0004_seo-content-operations-pack",
+    "asset_count": 1,
+    "assets": [
+      {
+        "name": "thumbnail_svg",
+        "kind": "image",
+        "role": "thumbnail",
+        "source_path": "sellable_products\\product_0004_seo-content-operations-pack\\thumbnail.svg",
+        "path": "sellable_products\\storefront\\products\\product-0004-seo-content-operations-pack\\assets\\thumbnail.svg",
+        "url": "assets/thumbnail.svg",
+        "size_bytes": 759,
+        "sha256": "5b87a58973ff223d03397d0563ec6f6ab3ef9b257f3b732bccc9a1cb2f48e281"
+      }
+    ],
+    "summary": {
+      "cover": "",
+      "thumbnail": "assets/thumbnail.svg",
+      "video_mp4": "",
+      "video_gif": "",
+      "marketing_image_count": 0
+    },
+    "manifest_path": "sellable_products\\storefront\\products\\product-0004-seo-content-operations-pack\\media_manifest.json",
+    "cover": {},
+    "thumbnail": {
+      "name": "thumbnail_svg",
+      "kind": "image",
+      "role": "thumbnail",
+      "source_path": "sellable_products\\product_0004_seo-content-operations-pack\\thumbnail.svg",
+      "path": "sellable_products\\storefront\\products\\product-0004-seo-content-operations-pack\\assets\\thumbnail.svg",
+      "url": "assets/thumbnail.svg",
+      "size_bytes": 759,
+      "sha256": "5b87a58973ff223d03397d0563ec6f6ab3ef9b257f3b732bccc9a1cb2f48e281"
+    },
+    "video_mp4": {},
+    "video_gif": {},
+    "marketing_images": []
+  },
+  "package": {
+    "path": "sellable_products\\packages\\product-0004-seo-content-operations-pack.zip",
+    "checksum_sha256": "7de6c98a665ad101ae4e6472756f892d381cae6d84f0ce1623fe8261ce5d7532",
+    "download_copied": false
+  },
+  "legal_note": "Static storefront files were generated locally. No third-party marketplace API was called. Do not expose paid ZIP downloads publicly unless you have a checkout/fulfillment gate.",
+  "generated_at": "2026-05-08T20:34:29.670927Z"
+}

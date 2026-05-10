@@ -1,0 +1,32 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "action": "enable_product",
+  "status": "gumroad_product_enabled",
+  "product_id": 5,
+  "gumroad_product_id": "WVbPqjDTVQojII3w3wZ4Sw==",
+  "title": "Short-Form Video Script and Production Pack",
+  "storefront_url": "https://habtamuki4.gumroad.com/l/product-0005-short-form-video-script-and-production-pack",
+  "before": {
+    "http_status": 200,
+    "success": true,
+    "published": false
+  },
+  "enable_response": {
+    "http_status": 200,
+    "success": true,
+    "message": ""
+  },
+  "after": {
+    "http_status": 200,
+    "success": true,
+    "published": true
+  },
+  "public_page_check": {
+    "http_status": 200,
+    "contains_product_name": true,
+    "contains_price": true
+  },
+  "legal_note": "Gumroad product enable was attempted only after the seller account payment setup blocker was resolved by the operator.",
+  "generated_at": "2026-05-08T09:38:24Z"
+}

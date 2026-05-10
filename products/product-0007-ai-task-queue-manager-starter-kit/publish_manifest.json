@@ -1,0 +1,300 @@
+{
+  "platform": "static_storefront",
+  "mode": "draft",
+  "status": "storefront_draft_ready",
+  "product": {
+    "product_id": 7,
+    "title": "AI Task Queue Manager Starter Kit",
+    "slug": "product-0007-ai-task-queue-manager-starter-kit",
+    "price": 49.0,
+    "currency": "USD",
+    "product_type": "python_automation",
+    "sale_status": "live_checkout",
+    "url": "products/product-0007-ai-task-queue-manager-starter-kit/index.html",
+    "checkout_url": "https://habtamuki4.gumroad.com/l/product-0007-ai-task-queue-manager-starter-kit",
+    "cover_image": "assets/gumroad_cover_1280x720.png",
+    "thumbnail_image": "assets/gumroad_thumbnail_600x600.png",
+    "preview_video": "assets/presenter_video.webm",
+    "preview_animation": "assets/launch_preview.gif",
+    "media_manifest": "products/product-0007-ai-task-queue-manager-starter-kit/media_manifest.json",
+    "updated_at": "2026-05-10T00:18:50.947110Z"
+  },
+  "media": {
+    "generated_at": "2026-05-10T00:18:50.924726Z",
+    "status": "media_assets_published",
+    "source_product_dir": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit",
+    "asset_count": 15,
+    "assets": [
+      {
+        "name": "cover",
+        "kind": "image",
+        "role": "cover",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\gumroad_cover_1280x720.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\gumroad_cover_1280x720.png",
+        "url": "assets/gumroad_cover_1280x720.png",
+        "size_bytes": 61197,
+        "sha256": "0b0795079ee69074f40be60f83102f9c2bc05a5091c910c13ff2ba037b024126"
+      },
+      {
+        "name": "thumbnail",
+        "kind": "image",
+        "role": "thumbnail",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\gumroad_thumbnail_600x600.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\gumroad_thumbnail_600x600.png",
+        "url": "assets/gumroad_thumbnail_600x600.png",
+        "size_bytes": 33865,
+        "sha256": "445ba8fca055b6ebc5418291ad2b6708bc284f65d1f30758cea34fc4952196b8"
+      },
+      {
+        "name": "thumbnail_svg",
+        "kind": "image",
+        "role": "thumbnail",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\thumbnail.svg",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\thumbnail.svg",
+        "url": "assets/thumbnail.svg",
+        "size_bytes": 757,
+        "sha256": "d87a618e55e1f4eef3d71061eeb78283a8eea2e9fa9e646fe3fbe7ba7cae5464"
+      },
+      {
+        "name": "social_square",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\social_square_1080.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\social_square_1080.png",
+        "url": "assets/social_square_1080.png",
+        "size_bytes": 50666,
+        "sha256": "49550d38ab29a24d5544f035589a37e1ee7768724200d6eb2e6d3191678dce26"
+      },
+      {
+        "name": "social_story",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\social_story_1080x1920.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\social_story_1080x1920.png",
+        "url": "assets/social_story_1080x1920.png",
+        "size_bytes": 61627,
+        "sha256": "7b331e0889dac43500ef2a05fda38b3d9e4531aef1feacc51f2ddae16ce5b42c"
+      },
+      {
+        "name": "ad_landscape",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\ad_card_1200x628.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\ad_card_1200x628.png",
+        "url": "assets/ad_card_1200x628.png",
+        "size_bytes": 61066,
+        "sha256": "cf21b104544e72a3601768353af6fc621df00ea626740cb34ef596594d2509bb"
+      },
+      {
+        "name": "presenter_portrait_png",
+        "kind": "image",
+        "role": "presenter",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\presenter_portrait.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\presenter_portrait.png",
+        "url": "assets/presenter_portrait.png",
+        "size_bytes": 455854,
+        "sha256": "cace1512e117821726e7141b0f8f3f85f746a18dd603bf13b435fb9056df2455"
+      },
+      {
+        "name": "presenter_poster_png",
+        "kind": "image",
+        "role": "poster",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\presenter_poster_1280x720.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\presenter_poster_1280x720.png",
+        "url": "assets/presenter_poster_1280x720.png",
+        "size_bytes": 270643,
+        "sha256": "b2c653833d22a1b9b1b0f60656b6221d095899c29e32f187db3e8b6fbf35d8e6"
+      },
+      {
+        "name": "presenter_video_webm",
+        "kind": "video",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\presenter_video.webm",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\presenter_video.webm",
+        "url": "assets/presenter_video.webm",
+        "size_bytes": 1289830,
+        "sha256": "2b30ee242a5b46f6308dc3dc6484b3aed011c576b6c7734e56023f416a091017"
+      },
+      {
+        "name": "launch_preview_webm",
+        "kind": "video",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\launch_preview.webm",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\launch_preview.webm",
+        "url": "assets/launch_preview.webm",
+        "size_bytes": 256851,
+        "sha256": "11e82f20c5fef62eb0ff54d480f7ffa664372636ab037aa4d8dd867c8b57382a"
+      },
+      {
+        "name": "launch_preview_mp4",
+        "kind": "video",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\launch_preview.mp4",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\launch_preview.mp4",
+        "url": "assets/launch_preview.mp4",
+        "size_bytes": 657583,
+        "sha256": "7b12c467b656897edcc9e8bd35b2ad8ebd6e6109f0bea18f427a33c71dff7b26"
+      },
+      {
+        "name": "launch_preview_gif",
+        "kind": "animation",
+        "role": "preview",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\launch_preview.gif",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\launch_preview.gif",
+        "url": "assets/launch_preview.gif",
+        "size_bytes": 128431,
+        "sha256": "f4fbd8871ca272593da299f9c7c25a7482e1b1994a225ebaaaf5d38e6418797b"
+      },
+      {
+        "name": "promo_copy",
+        "kind": "copy",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\promo_copy.md",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\promo_copy.md",
+        "url": "assets/promo_copy.md",
+        "size_bytes": 1534,
+        "sha256": "1f73f590565f08276ed8eb7cb4a0ed7d2913652bf3d57d0a18b1484c2a5fa4f7"
+      },
+      {
+        "name": "ad_plan",
+        "kind": "data",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\ad_plan.json",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\ad_plan.json",
+        "url": "assets/ad_plan.json",
+        "size_bytes": 1034,
+        "sha256": "d03ed87e461b28e0228f72fba014f7445074b25af7cd5da2aba1e882685be558"
+      },
+      {
+        "name": "video_storyboard",
+        "kind": "data",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\video_storyboard.json",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\video_storyboard.json",
+        "url": "assets/video_storyboard.json",
+        "size_bytes": 1058,
+        "sha256": "e2ad24c521099026324b517af8fd605245a0a88a71f19fd4e301d8baa83e409f"
+      }
+    ],
+    "summary": {
+      "cover": "assets/gumroad_cover_1280x720.png",
+      "thumbnail": "assets/gumroad_thumbnail_600x600.png",
+      "presenter_video": "assets/presenter_video.webm",
+      "presenter_poster": "assets/presenter_poster_1280x720.png",
+      "video_webm": "assets/launch_preview.webm",
+      "video_mp4": "assets/launch_preview.mp4",
+      "video_gif": "assets/launch_preview.gif",
+      "marketing_image_count": 3
+    },
+    "manifest_path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\media_manifest.json",
+    "cover": {
+      "name": "cover",
+      "kind": "image",
+      "role": "cover",
+      "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\gumroad_cover_1280x720.png",
+      "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\gumroad_cover_1280x720.png",
+      "url": "assets/gumroad_cover_1280x720.png",
+      "size_bytes": 61197,
+      "sha256": "0b0795079ee69074f40be60f83102f9c2bc05a5091c910c13ff2ba037b024126"
+    },
+    "thumbnail": {
+      "name": "thumbnail",
+      "kind": "image",
+      "role": "thumbnail",
+      "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\gumroad_thumbnail_600x600.png",
+      "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\gumroad_thumbnail_600x600.png",
+      "url": "assets/gumroad_thumbnail_600x600.png",
+      "size_bytes": 33865,
+      "sha256": "445ba8fca055b6ebc5418291ad2b6708bc284f65d1f30758cea34fc4952196b8"
+    },
+    "presenter_video": {
+      "name": "presenter_video_webm",
+      "kind": "video",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\presenter_video.webm",
+      "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\presenter_video.webm",
+      "url": "assets/presenter_video.webm",
+      "size_bytes": 1289830,
+      "sha256": "2b30ee242a5b46f6308dc3dc6484b3aed011c576b6c7734e56023f416a091017"
+    },
+    "presenter_poster": {
+      "name": "presenter_poster_png",
+      "kind": "image",
+      "role": "poster",
+      "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\presenter_poster_1280x720.png",
+      "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\presenter_poster_1280x720.png",
+      "url": "assets/presenter_poster_1280x720.png",
+      "size_bytes": 270643,
+      "sha256": "b2c653833d22a1b9b1b0f60656b6221d095899c29e32f187db3e8b6fbf35d8e6"
+    },
+    "video_webm": {
+      "name": "launch_preview_webm",
+      "kind": "video",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\launch_preview.webm",
+      "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\launch_preview.webm",
+      "url": "assets/launch_preview.webm",
+      "size_bytes": 256851,
+      "sha256": "11e82f20c5fef62eb0ff54d480f7ffa664372636ab037aa4d8dd867c8b57382a"
+    },
+    "video_mp4": {
+      "name": "launch_preview_mp4",
+      "kind": "video",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\launch_preview.mp4",
+      "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\launch_preview.mp4",
+      "url": "assets/launch_preview.mp4",
+      "size_bytes": 657583,
+      "sha256": "7b12c467b656897edcc9e8bd35b2ad8ebd6e6109f0bea18f427a33c71dff7b26"
+    },
+    "video_gif": {
+      "name": "launch_preview_gif",
+      "kind": "animation",
+      "role": "preview",
+      "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\launch_preview.gif",
+      "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\launch_preview.gif",
+      "url": "assets/launch_preview.gif",
+      "size_bytes": 128431,
+      "sha256": "f4fbd8871ca272593da299f9c7c25a7482e1b1994a225ebaaaf5d38e6418797b"
+    },
+    "marketing_images": [
+      {
+        "name": "social_square",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\social_square_1080.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\social_square_1080.png",
+        "url": "assets/social_square_1080.png",
+        "size_bytes": 50666,
+        "sha256": "49550d38ab29a24d5544f035589a37e1ee7768724200d6eb2e6d3191678dce26"
+      },
+      {
+        "name": "social_story",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\social_story_1080x1920.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\social_story_1080x1920.png",
+        "url": "assets/social_story_1080x1920.png",
+        "size_bytes": 61627,
+        "sha256": "7b331e0889dac43500ef2a05fda38b3d9e4531aef1feacc51f2ddae16ce5b42c"
+      },
+      {
+        "name": "ad_landscape",
+        "kind": "image",
+        "role": "marketing",
+        "source_path": "sellable_products\\product_0007_ai-task-queue-manager-starter-kit\\marketing\\ad_card_1200x628.png",
+        "path": "sellable_products\\storefront\\products\\product-0007-ai-task-queue-manager-starter-kit\\assets\\ad_card_1200x628.png",
+        "url": "assets/ad_card_1200x628.png",
+        "size_bytes": 61066,
+        "sha256": "cf21b104544e72a3601768353af6fc621df00ea626740cb34ef596594d2509bb"
+      }
+    ]
+  },
+  "package": {
+    "path": "sellable_products\\packages\\product-0007-ai-task-queue-manager-starter-kit.zip",
+    "checksum_sha256": "ed034a458c23f4fde104025bca0422f22e9106a7f4c9962576dbbc6bf1f9269e",
+    "download_copied": false
+  },
+  "legal_note": "Static storefront files were generated locally. No third-party marketplace API was called. Do not expose paid ZIP downloads publicly unless you have a checkout/fulfillment gate.",
+  "generated_at": "2026-05-10T00:18:50.947110Z"
+}

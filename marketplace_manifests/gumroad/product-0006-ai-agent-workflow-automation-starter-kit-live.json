@@ -1,0 +1,23 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "status": "gumroad_live_published",
+  "product_id": 6,
+  "title": "AI Agent Workflow Automation Starter Kit",
+  "price": 99.0,
+  "currency": "USD",
+  "listing_path": "sellable_products\\marketplace\\gumroad\\product-0006-ai-agent-workflow-automation-starter-kit.md",
+  "package_path": "sellable_products\\packages\\product-0006-ai-agent-workflow-automation-starter-kit.zip",
+  "package_checksum_sha256": "078e31f20fbb0f4baf41d52b61add0974f8c23d54f8ee1377b132b59538df611",
+  "storefront_url": "https://habtamuki4.gumroad.com/l/product-0006-ai-agent-workflow-automation-starter-kit",
+  "response": {
+    "http_status": 200,
+    "success": true,
+    "gumroad_product_id": "RasnhfHsSIgPjKX6olIgeQ==",
+    "short_url": "https://habtamuki4.gumroad.com/l/product-0006-ai-agent-workflow-automation-starter-kit",
+    "error": "",
+    "uploaded_file_url": "https://s3.amazonaws.com/gumroad/attachments/5810432401871/b38f808ebd0d5a41011053101d6a8cbf/original/product-0006-ai-agent-workflow-automation-starter-kit.zip"
+  },
+  "legal_note": "Live Gumroad upload was attempted only after --confirm-live and GUMROAD_LIVE_UPLOAD_ENABLED=true were both present.",
+  "generated_at": "2026-05-08T15:12:26.835015Z"
+}

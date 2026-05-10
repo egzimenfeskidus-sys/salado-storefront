@@ -1,0 +1,28 @@
+{
+  "product_id": 5,
+  "title": "Short-Form Video Script and Production Pack",
+  "duration_seconds": 12,
+  "scenes": [
+    {
+      "eyebrow": "NEW DIGITAL PRODUCT",
+      "headline": "Short-Form Video Script and Production Pack",
+      "body": "Script hooks, storyboard prompts, caption structures, and QA checklist for short-form video production workflows."
+    },
+    {
+      "eyebrow": "WHAT YOU GET",
+      "headline": "Editable files, docs, tests, and manifest",
+      "body": "A practical starting point that buyers can inspect, customize, and reuse."
+    },
+    {
+      "eyebrow": "BUILT SAFELY",
+      "headline": "API-neutral, no hidden credentials",
+      "body": "Use approved APIs and your own verified accounts when connecting external services."
+    },
+    {
+      "eyebrow": "INSTANT DOWNLOAD",
+      "headline": "$35 commercial-ready starter kit",
+      "body": "Buy once, adapt it, and ship repeatable client-ready assets faster."
+    }
+  ],
+  "generated_at": "2026-05-08T15:22:50.653182Z"
+}

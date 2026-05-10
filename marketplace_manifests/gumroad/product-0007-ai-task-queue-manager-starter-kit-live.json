@@ -1,0 +1,23 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "status": "gumroad_live_published",
+  "product_id": 7,
+  "title": "AI Task Queue Manager Starter Kit",
+  "price": 49.0,
+  "currency": "USD",
+  "listing_path": "sellable_products\\marketplace\\gumroad\\product-0007-ai-task-queue-manager-starter-kit.md",
+  "package_path": "sellable_products\\packages\\product-0007-ai-task-queue-manager-starter-kit.zip",
+  "package_checksum_sha256": "d07dc2d9af78872d7866a1759dab1f1862c62197692ba0ed24701a1f8e0c22e5",
+  "storefront_url": "https://habtamuki4.gumroad.com/l/product-0007-ai-task-queue-manager-starter-kit",
+  "response": {
+    "http_status": 200,
+    "success": true,
+    "gumroad_product_id": "9jwYEXvHEpMTSgPjqj6W6g==",
+    "short_url": "https://habtamuki4.gumroad.com/l/product-0007-ai-task-queue-manager-starter-kit",
+    "error": "",
+    "uploaded_file_url": "https://s3.amazonaws.com/gumroad/attachments/5810432401871/c947ef821c829ef7934fe550b20f19db/original/product-0007-ai-task-queue-manager-starter-kit.zip"
+  },
+  "legal_note": "Live Gumroad upload was attempted only after --confirm-live and GUMROAD_LIVE_UPLOAD_ENABLED=true were both present.",
+  "generated_at": "2026-05-10T00:18:18.145983Z"
+}

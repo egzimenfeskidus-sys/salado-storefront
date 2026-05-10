@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-05-08T20:34:29.652461Z",
+  "status": "media_assets_published",
+  "source_product_dir": "sellable_products\\product_0004_seo-content-operations-pack",
+  "asset_count": 1,
+  "assets": [
+    {
+      "name": "thumbnail_svg",
+      "kind": "image",
+      "role": "thumbnail",
+      "source_path": "sellable_products\\product_0004_seo-content-operations-pack\\thumbnail.svg",
+      "path": "sellable_products\\storefront\\products\\product-0004-seo-content-operations-pack\\assets\\thumbnail.svg",
+      "url": "assets/thumbnail.svg",
+      "size_bytes": 759,
+      "sha256": "5b87a58973ff223d03397d0563ec6f6ab3ef9b257f3b732bccc9a1cb2f48e281"
+    }
+  ],
+  "summary": {
+    "cover": "",
+    "thumbnail": "assets/thumbnail.svg",
+    "video_mp4": "",
+    "video_gif": "",
+    "marketing_image_count": 0
+  }
+}

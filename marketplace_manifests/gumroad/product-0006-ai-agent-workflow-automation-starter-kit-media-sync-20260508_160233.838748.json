@@ -1,0 +1,26 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "action": "sync_product_media",
+  "status": "gumroad_media_sync_incomplete",
+  "product_id": 6,
+  "gumroad_product_id": "RasnhfHsSIgPjKX6olIgeQ==",
+  "thumbnail": {
+    "success": false,
+    "status": "signed_blob_unavailable",
+    "path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_thumbnail_600x600.png",
+    "details": {
+      "success": false,
+      "status": "active_storage_direct_upload_rejected",
+      "http_status": 422,
+      "error": "Unprocessable Content",
+      "reason": "Gumroad Rails ActiveStorage direct upload appears to require seller UI session/CSRF context; the public OAuth token was not enough."
+    }
+  },
+  "cover": {
+    "status": "blocked_by_gumroad_public_api",
+    "path": "sellable_products\\product_0006_ai-agent-workflow-automation-starter-kit\\gumroad_cover_1280x720.png",
+    "reason": "Gumroad cover assets are saved through the seller UI asset_preview route, which uses Rails ActiveStorage session uploads. The public v2 API exposes cover_ids ordering, not a cover creation endpoint."
+  },
+  "generated_at": "2026-05-08T16:02:33.838748Z"
+}

@@ -1,0 +1,23 @@
+{
+  "platform": "gumroad",
+  "mode": "live",
+  "status": "gumroad_live_published",
+  "product_id": 5,
+  "title": "Short-Form Video Script and Production Pack",
+  "price": 35.0,
+  "currency": "USD",
+  "listing_path": "sellable_products\\marketplace\\gumroad\\product-0005-short-form-video-script-and-production-pack.md",
+  "package_path": "sellable_products\\packages\\product-0005-short-form-video-script-and-production-pack.zip",
+  "package_checksum_sha256": "7a0d3440ea03ac93ec8f9b9d1b63d49c6e80e8fec2b965949174478df38142a3",
+  "storefront_url": "https://habtamuki4.gumroad.com/l/product-0005-short-form-video-script-and-production-pack",
+  "response": {
+    "http_status": 200,
+    "success": true,
+    "gumroad_product_id": "WVbPqjDTVQojII3w3wZ4Sw==",
+    "short_url": "https://habtamuki4.gumroad.com/l/product-0005-short-form-video-script-and-production-pack",
+    "error": "",
+    "uploaded_file_url": "https://s3.amazonaws.com/gumroad/attachments/5810432401871/8f6e1e7c4c0ac5349a09c9d6d660756f/original/product-0005-short-form-video-script-and-production-pack.zip"
+  },
+  "legal_note": "Live Gumroad upload was attempted only after --confirm-live and GUMROAD_LIVE_UPLOAD_ENABLED=true were both present.",
+  "generated_at": "2026-05-08T07:21:45.651242Z"
+}
