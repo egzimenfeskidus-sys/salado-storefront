@@ -1,5 +1,34 @@
 [
   {
+    "id": 11,
+    "opportunity_id": 1413,
+    "source_platform": "weworkremotely",
+    "client_name": "Fusemachines",
+    "title": "Applied AI Engineer (Automation)",
+    "opportunity_url": "https://weworkremotely.com/remote-jobs/fusemachines-applied-ai-engineer-automation",
+    "matched_service": "AI/ML and NLP",
+    "priority_score": 100.0,
+    "budget_amount": 8000.0,
+    "currency": "USD",
+    "preview_slug": "lead-001413-applied-ai-engineer-automation",
+    "preview_path": "sellable_products\\storefront\\client-previews\\lead-001413-applied-ai-engineer-automation\\index.html",
+    "preview_url": "https://egzimenfeskidus-sys.github.io/salado-storefront/client-previews/lead-001413-applied-ai-engineer-automation/",
+    "checkout_url": "",
+    "message_draft": "Hi Fusemachines,\n\nI reviewed your project, \"Applied AI Engineer (Automation)\", and prepared a short preview of how I would approach the AI/ML and NLP work.\n\nPreview link: https://egzimenfeskidus-sys.github.io/salado-storefront/client-previews/lead-001413-applied-ai-engineer-automation/\n\nNo payment is needed to review the preview. It is intentionally limited/watermarked until you decide to proceed.\nIf the preview fits, we can proceed through weworkremotely's approved workflow.\n\nBest,\nHabtamu",
+    "status": "pending_review",
+    "created_by": "safe_client_acquisition",
+    "created_at": "2026-05-10T10:50:48.135859Z",
+    "updated_at": "2026-05-10T10:50:48.135859Z",
+    "review_notes": "",
+    "compliance_notes": [
+      "human_review_required_before_external_contact",
+      "no_automated_platform_messaging",
+      "use_official_platform_workflow",
+      "no_captcha_mfa_or_security_bypass",
+      "preview_only_not_a_contract"
+    ]
+  },
+  {
     "id": 10,
     "opportunity_id": 570,
     "source_platform": "behance",
